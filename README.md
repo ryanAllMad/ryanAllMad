@@ -24,7 +24,7 @@ A Front End Engineering position.
 She/Her
 
 ### ⚡ Fun fact: 
-I am a real big Wheel of Time nerd. If you get me started on the subject, I may never stop taking.
+My Dad's COBAL teacher was Admiral Grace Hopper.
 <!--
 **ryanAllMad/ryanAllMad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
