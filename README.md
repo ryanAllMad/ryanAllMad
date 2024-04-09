@@ -2,7 +2,7 @@
 I'm Ryan and I love to code, I love to solve problems, and I love sci fi! Thanks for taking the time to learn a bit about me. 
 
 ### 🔭 I’m currently working on 
-A [NextJS DnD character sheet](https://github.com/ryanAllMad/yong-character-sheet), and [a WordPress plugin](https://github.com/ryanAllMad/a11y-checker) that helps authors make their posts more accessible.
+My [React SSR, Node, Azure Portfolio](https://github.com/ryanAllMad/ryan-all-mad-portfolio), a [NextJS DnD character sheet](https://github.com/ryanAllMad/yong-character-sheet), and [a WordPress plugin](https://github.com/ryanAllMad/a11y-checker) that helps authors make their posts more accessible.
 
 ### 🌱 I’m currently learning 
 * GraphQL
