@@ -2,7 +2,7 @@
 I'm Ryan and I love to code, I love to solve problems, and I love sci fi! Thanks for taking the time to learn a bit about me. 
 
 ### 🔭 I’m currently working on 
-My current WIP is a [Job Application Helper](https://github.com/ryanAllMad/js-job-helper) made with Node, Express, MongoDB, and Mongoose, using REST. Soon it will feature Google Workspce API and then Open API's Chat GPT 3.5. Also working on my [React SSR, Node, Azure Portfolio](https://github.com/ryanAllMad/ryan-all-mad-portfolio), a [NextJS DnD character sheet](https://github.com/ryanAllMad/yong-character-sheet), and [a WordPress plugin](https://github.com/ryanAllMad/a11y-checker) that helps authors make their posts more accessible.
+My current WIP is a [React App](https://github.com/ryanAllMad/a11y-react) built with [Deque Cauldron](https://cauldron.dequelabs.com/), Vite, and Typescript. Also working on [Job Application Helper](https://github.com/ryanAllMad/js-job-helper) made with Node, Express, MongoDB, and Mongoose, using REST. Soon it will feature Google Workspce API and then Open API's Chat GPT 3.5. Also working on my [React SSR, Node, Azure Portfolio](https://github.com/ryanAllMad/ryan-all-mad-portfolio), a [NextJS DnD character sheet](https://github.com/ryanAllMad/yong-character-sheet), and [a WordPress plugin](https://github.com/ryanAllMad/a11y-checker) that helps authors make their posts more accessible.
 
 ### 🌱 I’m currently learning 
 * GraphQL
