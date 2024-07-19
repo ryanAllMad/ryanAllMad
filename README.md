@@ -2,7 +2,7 @@
 I'm Ryan and I love to code, I love to solve problems, and I love sci fi! Thanks for taking the time to learn a bit about me. 
 
 ### 🔭 I’m currently working on 
-[My current WIP](https://github.com/ryanAllMad/a11y-react) is a Jest Test suite built with [Deque Cauldron](https://cauldron.dequelabs.com/), that tests Patterns for their accessibility based on WAI-ARIA Authoring practices guidelines. Also working on [Job Application Helper](https://github.com/ryanAllMad/js-job-helper) made with Node, Express, MongoDB, and Mongoose, using REST, React Server components and Material UI. Also working on my [React SSR, Node, Azure Portfolio](https://github.com/ryanAllMad/ryan-all-mad-portfolio), a [NextJS DnD character sheet](https://github.com/ryanAllMad/yong-character-sheet), and [a WordPress plugin](https://github.com/ryanAllMad/a11y-checker) that helps authors make their posts more accessible.
+[My current WIP](https://github.com/ryanAllMad/a11y-react) is a Jest Test suite built with [Deque Cauldron](https://cauldron.dequelabs.com/), that tests Patterns for their accessibility based on WAI-ARIA Authoring practices guidelines. Also working on [Job Application Helper](https://github.com/ryanAllMad/js-job-helper) made with Node, Express, MongoDB, and Mongoose, using REST, React Server components, React Hook Form and Material UI. Also working on my [React SSR, Node, Azure, CircleCI Portfolio](https://github.com/ryanAllMad/ryan-all-mad-portfolio).
 
 ### 🌱 I’m currently learning 
 * GraphQL
