@@ -6,10 +6,8 @@ I'm Ryan and I love to code, I love to solve problems, and I love sci fi! Thanks
 
 ### 🌱 I’m currently learning 
 * GraphQL
-* Node
 * Docker & Kubernetes
-* Computer Science Algorythmic thinking
-* Philosophy
+* Linux Command Line
 
 ### 👯 I’m looking to collaborate on 
 Solutions that help people perform necessary tasks, enrich their lives, or secure their futures.
