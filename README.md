@@ -1,13 +1,17 @@
 ### Hi there 👋
 I'm Ryan and I love to code, I love to solve problems, and I love sci fi! Thanks for taking the time to learn a bit about me. 
 
-### 🔭 I’m currently working on 
-[My current WIP](https://github.com/ryanAllMad/a11y-react) is a Jest Test suite built with [Deque Cauldron](https://cauldron.dequelabs.com/), that tests Patterns for their accessibility based on WAI-ARIA Authoring practices guidelines. Also working on [Job Application Helper](https://github.com/ryanAllMad/js-job-helper) made with Node, Express, MongoDB, and Mongoose, using REST, React Server components, React Hook Form and Material UI. Also working on my [React SSR, Node, Azure, CircleCI Portfolio](https://github.com/ryanAllMad/ryan-all-mad-portfolio).
+### 🔭 Recent Projects of note:
+* [Figma Design to NextJS App](#) starting with a mood board from design to deploying a next app on vercel. This app is a mock up for a made up speakeasy.
+* [React Native App](#) an app utilizing Google's Civic Information and Congress' API's to search for your Congressional Representatives.
+* [Jest Test suite & CI Pipeline](https://github.com/ryanAllMad/a11y-react) built with [Deque Cauldron](https://cauldron.dequelabs.com/), that tests Patterns for their accessibility based on WAI-ARIA Authoring practices guidelines. 
+* [MERN (MongoDB, Express, React, Node)](https://github.com/ryanAllMad/js-job-helper) The Job Application  Resume Builder app is an open source project that lets you tailor your resume's more quickly. It utilizes Vite, React Hook Form, Google Docs API, and Material UI.
+* [React SSR, Node, Azure, & CircleCI](https://github.com/ryanAllMad/ryan-all-mad-portfolio) This is my portfolio app.
 
 ### 🌱 I’m currently learning 
+* Figma UX Design
+* React Native
 * GraphQL
-* Docker & Kubernetes
-* Linux Command Line
 
 ### 👯 I’m looking to collaborate on 
 Solutions that help people perform necessary tasks, enrich their lives, or secure their futures.
