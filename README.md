@@ -2,7 +2,7 @@
 I'm Ryan and I love to code, I love to solve problems, and I love sci fi! Thanks for taking the time to learn a bit about me. 
 
 ### 🔭 Recent Projects of note:
-* [Figma Design to NextJS App](#) starting with a mood board from design to deploying a next app on vercel. This app is a mock up for a made up speakeasy.
+* [Figma Design to NextJS App](https://github.com/ryanAllMad/moodys-speakeasy) starting with a mood board from design to deploying a next app on vercel. This app is a mock up for a made up speakeasy.
 * [React Native App](#) an app utilizing Google's Civic Information and Congress' API's to search for your Congressional Representatives.
 * [Jest Test suite & CI Pipeline](https://github.com/ryanAllMad/a11y-react) built with [Deque Cauldron](https://cauldron.dequelabs.com/), that tests Patterns for their accessibility based on WAI-ARIA Authoring practices guidelines. 
 * [MERN (MongoDB, Express, React, Node)](https://github.com/ryanAllMad/js-job-helper) The Job Application  Resume Builder app is an open source project that lets you tailor your resume's more quickly. It utilizes Vite, React Hook Form, Google Docs API, and Material UI.
